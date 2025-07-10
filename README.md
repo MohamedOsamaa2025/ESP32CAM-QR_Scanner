@@ -1,3 +1,3 @@
 # ESP32CAM-QR_Scanner
 
-![Screenshot 2025-07-09 032744](https://github.com/user-attachments/assets/c20a209d-eda7-48fc-b889-1cea68cc7511)
+![image](https://github.com/user-attachments/assets/b8025263-e25b-459d-97a2-af2792032b00)
